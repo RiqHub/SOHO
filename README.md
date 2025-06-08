@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/6acdaed1-e891-4abb-90c1-a0f84bc71d84)
 
 ## 🎯 Project Goal
-- Design and configure a small office network that supports:
+Design and configure a small office network that supports:
 - Internet access
 - Segmented departments (using VLANs)
 - Central DHCP
