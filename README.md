@@ -1,4 +1,4 @@
-# 🕸️ SMALL OFFICE HOME OFFICE🕸️
+# 🕸️ SMALL OFFICE HOME OFFICE NETWORKING🕸️
 
 ---
 ![image](https://github.com/user-attachments/assets/6acdaed1-e891-4abb-90c1-a0f84bc71d84)
