@@ -12,7 +12,7 @@
 - Inter-VLAN communication
 
 ## 🖥️ Scenario Overview
-You're tasked with setting up a network for a small company with 3 departments:
+We are tasked with setting up a network for a small company with 3 departments:
 - HR (VLAN 10)
 - IT (VLAN 20)
 - Sales (VLAN 30)
