@@ -60,11 +60,20 @@ Set the scope for each VLANs (Also set a route to the ISP for external connectio
 <br>
 To ensure no unauthorized devices connect to the switches we will enable port security. Repeat for other switch as well. 
 
+- `switchport port-security maximum 2` allows for only 2 mac address to be learned on the port 
+- `switchport port-security mac-address sticky` Automatically learns the MAC addresses of the connected devices and save them in the running config
+    - instead of manually specifying allowed MACs, the switch will learn them dynamically and treat them as trusted. If a new/different MAC appears after the limit is reached it will shut down the port 
+
 ![image](https://github.com/user-attachments/assets/19d15659-6cd6-4be6-8023-5edb2b40bf0d)
 
 
 ---
 
+**5. Test Connectivity**
+<br>
+Each Computer was able to ping to each other going through the router first, verifying that the routing is working correctly. 
+
+![image](https://github.com/user-attachments/assets/d101eecc-8d12-42d3-b650-cd80aad65a26)
 
 
 
